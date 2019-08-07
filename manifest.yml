@@ -2,7 +2,7 @@ applications:
 - name: pal-tracker-krishna
   path: build/libs/pal-tracker.jar
   routes:
-  - route: - route: pal-tracker-vamsi.apps.pas-useast1.gcp-wipro.com
+  - route: pal-tracker-vamsi.apps.pas-useast1.gcp-wipro.com
 
   env:
     WELCOME_MESSAGE: Hello from the review environment from Vamsi
